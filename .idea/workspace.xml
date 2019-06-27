@@ -2,33 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c19e505-82f8-4e9a-b4b1-fdc767b285f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Kaggle_Titanic/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kaggle_Titanic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kaggle_Titanic/Cleaning_the_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kaggle_Titanic/data_display.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kaggle_Titanic/titanic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/5.1.intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/5.2.calc_e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/5.3.class_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ML/5.4.stat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testing-set.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kesci/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numpy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numpy/numpy_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pytorch-ssim-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.1.Iris_DecisionTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.2.Iris_DecisionTree_Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.3.DecisionTreeRegressor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.4.MultiOutput_DTR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.5.Iris_RandomForest_Enum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/8.iris.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/8.iris.names" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/graphviz-2.38.msi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tree_and_random_forest/iris_tree.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kaggle_Titanic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kaggle_Titanic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kaggle_Titanic/Cleaning_the_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Kaggle_Titanic/Cleaning_the_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kaggle_Titanic/data_display.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Kaggle_Titanic/data_display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kaggle_Titanic/titanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Kaggle_Titanic/titanic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/5.1.intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/5.1.intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/5.2.calc_e.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/5.2.calc_e.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/5.3.class_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/5.3.class_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/5.4.stat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/5.4.stat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DataAverage-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DataAverage-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAverage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataAverage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numpy/numpy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../numpy/numpy_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree_and_random_forest/10.1.Iris_DecisionTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.1.Iris_DecisionTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree_and_random_forest/10.2.Iris_DecisionTree_Enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.2.Iris_DecisionTree_Enum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree_and_random_forest/10.3.DecisionTreeRegressor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.3.DecisionTreeRegressor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree_and_random_forest/10.5.Iris_RandomForest_Enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.5.Iris_RandomForest_Enum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tree_and_random_forest/iris_tree.dot" beforeDir="false" afterPath="$PROJECT_DIR$/../tree_and_random_forest/iris_tree.dot" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +32,27 @@
     <SUITE FILE_PATH="coverage/ML_homework$data_clean__1_.coverage" NAME="data_clean (1) Coverage Results" MODIFIED="1561544487947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataClean.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLHomeBook.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataAverage.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -55,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/data_clean.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -63,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Training-set.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="6993" column="42" lean-forward="true" selection-start-line="6993" selection-start-column="42" selection-end-line="6993" selection-end-column="42" />
+            <state relative-caret-position="146853">
+              <caret line="6993" column="42" selection-start-line="6993" selection-start-column="42" selection-end-line="6993" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -74,18 +83,32 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/机器学习/knn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="22" lean-forward="true" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="-273">
+              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/机器学习/svm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Testing-set.csv">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-567" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -98,7 +121,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -110,11 +133,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1828" />
-    <option name="y" value="-23" />
-    <option name="width" value="977" />
-    <option name="height" value="844" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="222" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -122,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,11 +162,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -228,24 +252,20 @@
       <option name="presentableId" value="Default" />
       <updated>1561534427551</updated>
       <workItem from="1561534443296" duration="8003000" />
+      <workItem from="1561617177424" duration="1279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8003000" />
+    <option name="totallyTimeSpent" value="9282000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22453083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2272118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -253,32 +273,36 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" weight="0.3297587" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/knn.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Training-set.csv">
+    <entry file="file://$PROJECT_DIR$/venv/knn.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Training-set.csv" />
+    <entry file="file://$PROJECT_DIR$/venv/data_clean.py" />
+    <entry file="file://$PROJECT_DIR$/Training-set.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146412">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="146853">
+          <caret line="6993" column="42" selection-start-line="6993" selection-start-column="42" selection-end-line="6993" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/data_clean.py">
+    <entry file="file://$PROJECT_DIR$/Testing-set.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="24" />
-        </state>
+        <state relative-caret-position="-567" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataClean.ipynb">
@@ -288,32 +312,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_clean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Training-set.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="6993" column="42" lean-forward="true" selection-start-line="6993" selection-start-column="42" selection-end-line="6993" selection-end-column="42" />
+    <entry file="file://$PROJECT_DIR$/MLHomeBook.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/knn.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/机器学习/knn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="22" lean-forward="true" selection-end-line="18" selection-end-column="39" />
+    <entry file="file://$PROJECT_DIR$/DataAverage.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testing-set.csv">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/data_clean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/机器学习/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/机器学习/knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
