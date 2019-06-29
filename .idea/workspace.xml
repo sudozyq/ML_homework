@@ -10,16 +10,9 @@
       <change beforePath="$PROJECT_DIR$/../ML/5.2.calc_e.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/5.2.calc_e.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML/5.3.class_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/5.3.class_intro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ML/5.4.stat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/5.4.stat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DataAverage-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DataAverage-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/KNN-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/KNN-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/SVM-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/SVM-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAverage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataAverage.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataClean.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DecisionTree-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DecisionTree-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionTree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DecisionTree.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SVM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_clean.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/knn.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../numpy/numpy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../numpy/numpy_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tree_and_random_forest/10.1.Iris_DecisionTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.1.Iris_DecisionTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tree_and_random_forest/10.2.Iris_DecisionTree_Enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tree_and_random_forest/10.2.Iris_DecisionTree_Enum.py" afterDir="false" />
@@ -40,24 +33,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLHomeBook.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataAverage.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DecisionTree.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -69,8 +44,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Training-set.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146853">
+            <state relative-caret-position="396">
               <caret line="6993" column="42" selection-start-line="6993" selection-start-column="42" selection-end-line="6993" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataAverage.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -255,12 +239,12 @@
       <workItem from="1561617177424" duration="1886000" />
       <workItem from="1561688929195" duration="1296000" />
       <workItem from="1561815020986" duration="1231000" />
-      <workItem from="1561817827195" duration="1754000" />
+      <workItem from="1561817827195" duration="2570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14170000" />
+    <option name="totallyTimeSpent" value="14986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -296,13 +280,6 @@
     <entry file="file://$PROJECT_DIR$/venv/knn.py" />
     <entry file="file://$PROJECT_DIR$/venv/Training-set.csv" />
     <entry file="file://$PROJECT_DIR$/venv/data_clean.py" />
-    <entry file="file://$PROJECT_DIR$/Training-set.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146853">
-          <caret line="6993" column="42" selection-start-line="6993" selection-start-column="42" selection-end-line="6993" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Testing-set.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -336,21 +313,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KNN.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAverage.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+    <entry file="file://$PROJECT_DIR$/data_clean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataClean.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KNN.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -364,14 +341,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_clean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+    <entry file="file://$PROJECT_DIR$/DecisionTree.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DecisionTree.ipynb">
+    <entry file="file://$PROJECT_DIR$/Training-set.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="6993" column="42" selection-start-line="6993" selection-start-column="42" selection-end-line="6993" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAverage-Copy1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAverage.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
